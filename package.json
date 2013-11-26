@@ -1,0 +1,10 @@
+{
+	"name": "html5-video",
+	"description": "html5 video format tool",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"async": "0.1.x",
+		"child_process": "0.10.x"
+	}
+}
